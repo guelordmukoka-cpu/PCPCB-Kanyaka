@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PCPCB - Kanyaka Truck Scan System 5",
+  "description": "Système de gestion du scannage des camions à l'export pour le site de Kanyaka. Gestion des enregistrements, paiements, scans et validations avec tableaux de bord financiers et opérationnels.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
